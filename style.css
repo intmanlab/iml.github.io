@@ -75,7 +75,7 @@ a:hover, a:active {
 .header-bar-email .fa {
     margin-right: 12px;
     font-size: 20px;
-    color: #19c880;
+    color: #9bc1cc;
 }
 
 .header-bar-text p {
@@ -120,7 +120,7 @@ a:hover, a:active {
     height: 50px;
     border: 0;
     color: #fff;
-    background: #19c880;
+    background: #9bc1cc;
     cursor: pointer;
     outline: none;
 }
@@ -309,7 +309,7 @@ a:hover, a:active {
 
 .site-navigation ul li a:hover,
 .site-navigation ul li.current-menu-item a {
-    color: #19c880;
+    color: #9bc1cc;
 }
 
 /*
@@ -350,7 +350,7 @@ a:hover, a:active {
     font-size: 14px;
     font-weight: 700;
     text-transform: uppercase;
-    color: #19c880;
+    color: #9bc1cc;
     letter-spacing: 0.1em;
 }
 
@@ -380,7 +380,7 @@ a:hover, a:active {
 .hero-content-wrap .read-more a {
     display: block;
     padding: 12px 40px;
-    border: 2px solid #19c880;
+    border: 2px solid #9bc1cc;
     font-size: 13px;
     font-weight: bold;
     color: #fff;
@@ -390,7 +390,7 @@ a:hover, a:active {
 }
 
 .hero-content-wrap .read-more a:hover {
-    background: #19c880;
+    background: #9bc1cc;
 }
 
 /*--------------------------------------------------------------
