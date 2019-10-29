@@ -444,7 +444,7 @@ a:hover, a:active {
 
 .icon-box .icon {
     font-size: 42px;
-    color: #19c880;
+    color: ##9bc1cc;
 }
 
 .icon-box .entry-title {
@@ -463,7 +463,7 @@ a:hover, a:active {
     padding-right: 10px;
     font-size: 13px;
     font-weight: 700;
-    color: #19c880;
+    color: ##9bc1cc;
     text-decoration: none;
     text-transform: uppercase;
     letter-spacing: 0.1em;
@@ -516,8 +516,8 @@ a:hover, a:active {
 
 .courses-wrap .heading .courses-menu li a:hover,
 .courses-wrap .heading .courses-menu li.active a {
-    color: #19c880;
-    border-color: #19c880;
+    color: #9bc1cc;
+    border-color: #9bc1cc;
 }
 
 .mx-m-25 {
@@ -578,7 +578,7 @@ a:hover, a:active {
 }
 
 .course-author a {
-    color: #19c880;
+    color: #9bc1cc;
     text-decoration: none;
 }
 
@@ -605,7 +605,7 @@ a:hover, a:active {
 .course-cost {
     font-size: 24px;
     font-weight: 700;
-    color: #19c880;
+    color: #9bc1cc;
 }
 
 .course-cost .price-drop {
@@ -747,7 +747,7 @@ a.btn:hover {
     margin-top: 16px;
     font-size: 60px;
     line-height: 1.2;
-    color: #19c880;
+    color: #9bc1cc;
 }
 
 @media screen and (max-width: 576px) {
@@ -867,7 +867,7 @@ a.btn:hover {
     font-size: 16px;
     font-weight: 300;
     text-transform: uppercase;
-    color: #19c880;
+    color: #9bc1cc;
 }
 
 .testimonial-slider .testimonial-user::after {
@@ -1019,7 +1019,7 @@ a.btn:hover {
 
 .event-content .post-author a {
     font-style: italic;
-    color: #19c880;
+    color: #9bc1cc;
     text-decoration: none;
 }
 
