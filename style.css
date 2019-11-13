@@ -316,12 +316,12 @@ a:hover, a:active {
 # Menu SHopping Cart
 --------------------------------*/
 .header-bar-cart {
-    margin-left: 10px;
+    margin-left: 40px;
 }
 
 .header-bar-cart a {
-    width: 20px;
-    height: 50%;
+    width: 48px;
+    height: 100%;
 }
 
 .header-bar-cart a {
