@@ -175,7 +175,7 @@ a:hover, a:active {
 # Nav Bar
 --------------------------------*/
 .nav-bar {
-    padding: 20px 0;
+    padding: 5px 0;
     background: rgba(255,255,255,.1);
 }
 
@@ -342,8 +342,8 @@ a:hover, a:active {
 }
 
 .hero-content-wrap {
-    height: 820px;
-    padding-top: 130px;
+    height: 500px;
+    padding-top: 50px;
 }
 
 .hero-content-wrap h4 {
@@ -356,7 +356,7 @@ a:hover, a:active {
 
 .hero-content-wrap h1 {
     margin-top: 12px;
-    font-size: 60px;
+    font-size: 30px;
     font-weight: 500;
     text-transform: uppercase;
     color: #fff;
@@ -1141,7 +1141,7 @@ a.btn:hover {
 # Clients Logos
 --------------------------------*/
 .clients-logo {
-    margin-top: 100px;
+    margin-top: 20px;
     padding: 16px 0;
     background: #f7f7f7;
 }
@@ -2615,7 +2615,7 @@ ul.author-social-profile li:hover .fa {
 }
 
 .foot-about p {
-    margin-top: 40px;
+    margin-top: 20px;
     font-size: 16px;
     line-height: 1.6;
     color: #757686;
@@ -2626,7 +2626,7 @@ p.footer-copyright {
 }
 
 .footer-widgets h2 {
-    margin-bottom: 40px;
+    margin-bottom: 10px;
     font-size: 20px;
     color: #383749;
 }
